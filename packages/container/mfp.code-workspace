@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../marketing"
+	},
+	{
+		"path": "../dashboard"
+	},
+	{
+		"path": "../auth"
+	}
+],
+  "settings": {}
+}
